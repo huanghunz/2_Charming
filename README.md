@@ -1,12 +1,16 @@
-melonJS boilerplate
+2 Charming
 -------------------------------------------------------------------------------
 
-features :
-- video autoscaling
-- mobile optimized HTML/CSS
-- swiping disabled on iOS devices
-- debug Panel (if #debug)
+A dual-ended side scrolling 2D puzzle platformer with 2 controllable characters who have distinct abilities.
+
+arrow keys to move.
+spacebar to jump. 
+
+Girl only features:
+double press on spacebar = double jump
+double press on spacebar and hold = glide
+
+Boy only features:
+z for dash, x for attack
 
 -------------------------------------------------------------------------------
-Copyright (C) 2011 - 2013, Olivier Biot, Jason Oster
-melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
